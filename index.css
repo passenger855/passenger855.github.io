@@ -83,6 +83,19 @@ img {
     .textjoin {
         justify-self: center;
     }
+    
+    .footer {
+    display: block;
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+
+.footer p {
+    padding: 25px; 
+    color: lightseagreen;
+}
 }
 
 /* main for desktop */
